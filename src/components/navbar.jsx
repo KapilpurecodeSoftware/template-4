@@ -22,12 +22,12 @@ export default function Navbar() {
       <div className="firstComponent">
         <img className="dashboardImg" src={dashboardImg} />
         <div  className="text-right">
-          <h2 className="h2-Heading">
+          <h2 className="h2-Heading-navbar">
             {" "}
             Powering The Future Of <br/><span className="work">Work</span>
             
           </h2>
-          <div className="loremPara1">
+          <div className="loremPara1-navbar">
             Lorem ipsum dolor sit amet consectetur adipisicing
              elit. Sapiente
             excepturi dolorem quos. Lorem ipsum dolor sit amet consectetur adipisicing
